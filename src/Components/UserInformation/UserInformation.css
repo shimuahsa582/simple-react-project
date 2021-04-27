@@ -1,0 +1,27 @@
+.information{
+    float:left;
+}
+.user_information {
+   background: #e1dede;
+    margin-left: 30px;
+    margin-bottom: 28px;
+    border-radius: 10px;
+    width: 265px;
+    height: 294px;
+    text-align: center;
+    box-shadow: 5px 5px 5px #c6c0c0;
+    transition: 0.5s;
+    cursor:pointer;
+}
+.user_information:hover{
+    width:290px;
+}
+.userButton{
+    width: 140px;
+    background: #fb5200;
+    padding:7px 0px;
+    color:white;
+    border-radius: 5px;
+    border:none;
+    cursor: pointer;  
+}
